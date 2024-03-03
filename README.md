@@ -1,7 +1,7 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dg3u7hq-c1a76bed-89de-4294-9621-bb4ec5928066.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGczdTdocS1jMWE3NmJlZC04OWRlLTQyOTQtOTYyMS1iYjRlYzU5MjgwNjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rYkG0BxIeofIeDrbwyDJge1i8l4MDCGA1ZxtoHva4nU)
 
-<h1 align="left">Hi 👋, I'm DINUL KOVIDA PERERA</h1>
-<h3 align="left">A passionate frontend developer from Sri Lanka</h3>
+<h1 align="left">Hi 👋, I'm Dinul Perera</h1>
+<h3 align="left">A Passionate Frontend Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkpixels123&label=Profile%20views&color=0e75b6&style=flat" alt="darkpixels123" /> </p>
 
