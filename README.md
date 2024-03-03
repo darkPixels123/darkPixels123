@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **dinulperera2001@gmail.com**
 
+<h3 align="left">My HOLOPIN BOARD</h3>
 [![An image of @darkpixels123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darkpixels123)](https://holopin.io/@darkpixels123)
 
 <h3 align="left">Connect with me:</h3>
